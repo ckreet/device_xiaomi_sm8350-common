@@ -235,6 +235,9 @@ PRODUCT_PACKAGES += \
     ViPER4AndroidFX
 endif
 
+PRODUCT_PACKAGES += \
+    LunarisDolby
+
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm-service.clearkey
